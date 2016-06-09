@@ -1,0 +1,6 @@
+﻿  texture.cpp
+  main.cpp
+c:\users\dżemik\documents\visual studio 2015\projects\grkprojekt\grkprojekt\main.cpp(16): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Generating Code...
+  GRKProjekt.vcxproj -> C:\Users\Dżemik\Documents\Visual Studio 2015\Projects\GRKProjekt\Debug\GRKProjekt.exe
+  GRKProjekt.vcxproj -> C:\Users\Dżemik\Documents\Visual Studio 2015\Projects\GRKProjekt\Debug\GRKProjekt.pdb (Partial PDB)
